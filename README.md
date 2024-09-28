@@ -1,7 +1,7 @@
 <h2 align="center">Hey I am Muhammad Surya Saputro, you can call me Surya✌ !!</h2>
 Currently I am studying information technology at Tidar University. In this semester I am studying about Big Data, Networking, and OOP.
 
-### 🔧 Languages ​​and Tools:
+### 🔧 Languages ​​and Tools :
 <div align="left" style="display:flex; flex-wrap:wrap; gap:20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -29,7 +29,7 @@ Currently I am studying information technology at Tidar University. In this seme
   </a>
 </p>
 
-### Latest Medium Post:
+### Latest Medium Post :
   [![Recent Post 1](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/0)](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/0)
   [![Recent Post 2](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/1)](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/1)
   [![Recent Post 3](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/2)](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/2)
